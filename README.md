@@ -4,7 +4,7 @@
 
 ## Description
 
-This respository contains a Python pragram that performs GUVI Web Application Automation utilize Selenium WebDriver to automate various test cases.
+This respository contains a Python program that performs GUVI Web Application Automation utilize Selenium WebDriver to automate various test cases.
 
 ## Project Description
 
